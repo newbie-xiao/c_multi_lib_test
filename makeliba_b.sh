@@ -1,4 +1,5 @@
 echo "---makeliba_b start---"
+
 cur_dir=$PWD
 echo "---cur_dir $cur_dir---"
 
